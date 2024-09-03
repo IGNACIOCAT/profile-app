@@ -1,0 +1,16 @@
+.content {
+  margin: 15px;
+  text-align: center;
+}
+
+.content p {
+  text-align: start;
+  margin-left: 15px;
+}
+
+.botones {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  margin-top: 20px;
+}
